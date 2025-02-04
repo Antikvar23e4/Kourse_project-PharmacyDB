@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apteka\\Apteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\manager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|c:\\apteka\\apteka\\apteka\\guest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\guest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\manager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\pharma.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\pharma.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\guest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\guest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\pharma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\pharma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|C:\\Apteka\\Apteka\\apteka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF2C4E7-3B5C-4B26-881E-187D778CD8FF}|Apteka\\Apteka.csproj|solutionrelative:apteka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.xaml",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\User.xaml",
+              "RelativeDocumentMoniker": "Apteka\\User.xaml",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\User.xaml",
+              "RelativeToolTip": "Apteka\\User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T20:57:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\User.xaml.cs",
+              "RelativeDocumentMoniker": "Apteka\\User.xaml.cs",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\User.xaml.cs",
+              "RelativeToolTip": "Apteka\\User.xaml.cs",
+              "ViewState": "AQIAAMEBAAAAAAAAAAAkwC0CAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:57:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.xaml",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\Manager.xaml",
+              "RelativeDocumentMoniker": "Apteka\\Manager.xaml",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\Manager.xaml",
+              "RelativeToolTip": "Apteka\\Manager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T20:43:57.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guest.xaml.cs",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\Guest.xaml.cs",
+              "RelativeDocumentMoniker": "Apteka\\Guest.xaml.cs",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\Guest.xaml.cs",
+              "RelativeToolTip": "Apteka\\Guest.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:29:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.xaml.cs",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\Manager.xaml.cs",
+              "RelativeDocumentMoniker": "Apteka\\Manager.xaml.cs",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\Manager.xaml.cs",
+              "RelativeToolTip": "Apteka\\Manager.xaml.cs",
+              "ViewState": "AQIAANIBAAAAAAAAAADwv0UCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:11:05.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pharma.xaml",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\Pharma.xaml",
+              "RelativeDocumentMoniker": "Apteka\\Pharma.xaml",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\Pharma.xaml",
+              "RelativeToolTip": "Apteka\\Pharma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T05:22:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guest.xaml",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\Guest.xaml",
+              "RelativeDocumentMoniker": "Apteka\\Guest.xaml",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\Guest.xaml",
+              "RelativeToolTip": "Apteka\\Guest.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:02:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pharma.xaml.cs",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\Pharma.xaml.cs",
+              "RelativeDocumentMoniker": "Apteka\\Pharma.xaml.cs",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\Pharma.xaml.cs",
+              "RelativeToolTip": "Apteka\\Pharma.xaml.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAAQwPMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:22:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Apteka\\Apteka\\Apteka\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Apteka\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Apteka\\Apteka\\Apteka\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Apteka\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:42:08.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
